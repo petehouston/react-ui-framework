@@ -26,6 +26,8 @@ My personal collection of React UI Framework.
 * [React UIKit Components](http://otissv.github.io/react-uikit-components/)
 * [React UI](http://lobos.github.io/react-u)
 * [Office UI Fabric](https://dev.office.com/fabric)
+* [Pivotal UI](http://styleguide.cfapps.io/)
+* [CloudFlare CFUI](https://cloudflare.github.io/cf-ui/)
 
 ### Mobile
 
@@ -36,6 +38,14 @@ My personal collection of React UI Framework.
 ### React Native
 
 * [Shoutem UI Toolkit](https://shoutem.github.io/ui/)
+* [MRN](http://mrn.js.org/)
+* [RN Material Kit](http://www.xinthink.com/react-native-material-kit/)
+* [Reapp](http://reapp.io/)
+* [react-native-macos](https://github.com/ptmt/react-native-macos)
+* [react-native-windows](https://github.com/ReactWindows/react-native-windows)
+* [panza](https://github.com/panza-org/panza)
+* [React Native Elements](https://github.com/react-native-community/react-native-elements)
+* [NativeBase](http://nativebase.io/)
 
 ### Desktop
 
