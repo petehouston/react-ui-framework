@@ -25,6 +25,7 @@ My personal collection of React UI Framework.
 * [searchkit](http://www.searchkit.co/)
 * [React UIKit Components](http://otissv.github.io/react-uikit-components/)
 * [React UI](http://lobos.github.io/react-u)
+* [Office UI Fabric](https://dev.office.com/fabric)
 
 ### Mobile
 
