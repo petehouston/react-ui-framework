@@ -50,6 +50,7 @@ My personal collection of React UI Framework.
 ### Desktop
 
 * [react-desktop](http://reactdesktop.js.org/)
+* [react-photonkit](http://react-photonkit.github.io/#/)
 
 
 ### VR
