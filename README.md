@@ -28,6 +28,7 @@ My personal collection of React UI Framework.
 * [Office UI Fabric](https://dev.office.com/fabric)
 * [Pivotal UI](http://styleguide.cfapps.io/)
 * [CloudFlare CFUI](https://cloudflare.github.io/cf-ui/)
+* [ReactBlazeCSS](https://appcraft.github.io/react-blazecss/)
 
 ### Mobile
 
