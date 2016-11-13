@@ -32,6 +32,7 @@ My personal collection of React UI Framework.
 * [BlueprintJS](https://github.com/palantir/blueprint)
 * [ST UI Toolkit](http://socialtables.github.io/ST-UI-Toolkit)
 * [HolidayExtras UI Toolkit](http://tech.holidayextras.co.uk/ui-toolkit/)
+* [React Native for Web](https://github.com/necolas/react-native-web)
 
 ### Mobile
 
