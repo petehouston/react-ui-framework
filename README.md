@@ -29,6 +29,7 @@ My personal collection of React UI Framework.
 * [Pivotal UI](http://styleguide.cfapps.io/)
 * [CloudFlare CFUI](https://cloudflare.github.io/cf-ui/)
 * [ReactBlazeCSS](https://appcraft.github.io/react-blazecss/)
+* [BlueprintJS](https://github.com/palantir/blueprint)
 
 ### Mobile
 
