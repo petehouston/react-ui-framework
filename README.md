@@ -24,7 +24,7 @@ My personal collection of React UI Framework.
 * [React Foundation Apps](http://webrafter.com/opensource/react-foundation-apps)
 * [searchkit](http://www.searchkit.co/)
 * [React UIKit Components](http://otissv.github.io/react-uikit-components/)
-* [React UI](http://lobos.github.io/react-u)
+* [React UI](http://lobos.github.io/react-ui)
 * [Office UI Fabric](https://dev.office.com/fabric)
 * [Pivotal UI](http://styleguide.cfapps.io/)
 * [CloudFlare CFUI](https://cloudflare.github.io/cf-ui/)
