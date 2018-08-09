@@ -35,6 +35,7 @@ My personal collection of React UI Framework.
 * [React Native for Web](https://github.com/necolas/react-native-web)
 * [Essential JS 2](http://ej2.syncfusion.com/demos/#/chart/line.html)
 * [Baidu Fit Toolkit](https://github.com/fex-team/fit)
+* [RSuite - A suite of React components](https://rsuitejs.com/en/)
 
 ### Mobile
 
