@@ -38,6 +38,7 @@ My personal collection of React UI Framework.
 * [RSuite - A suite of React components](https://rsuitejs.com/en/)
 * [Evergreen - React UI Framework for the Web)(https://evergreen.surge.sh/)
 * [Reakit](https://reakit.io/)
+* [JetBrains React Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)
 
 ### Mobile
 
