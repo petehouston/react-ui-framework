@@ -36,7 +36,7 @@ My personal collection of React UI Framework.
 * [Essential JS 2](http://ej2.syncfusion.com/demos/#/chart/line.html)
 * [Baidu Fit Toolkit](https://github.com/fex-team/fit)
 * [RSuite - A suite of React components](https://rsuitejs.com/en/)
-* [Evergreen - React UI Framework for the Web)(https://evergreen.surge.sh/)
+* [Evergreen - React UI Framework for the Web](https://evergreen.surge.sh/)
 * [Reakit](https://reakit.io/)
 * [JetBrains React Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)
 
