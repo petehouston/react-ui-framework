@@ -4,6 +4,7 @@ My personal collection of React UI Framework.
 
 ### Web
 
+* [Chakra UI](https://chakra-ui.com)
 * [Webix](http://webix.com/)
 * [Cx](http://cx.codaxy.com/docs/intro/about)
 * [Belle](http://nikgraf.github.io/belle/#/)
