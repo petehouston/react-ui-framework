@@ -14,7 +14,7 @@ My personal collection of React UI Framework.
 * [reactstrap](https://reactstrap.github.io/)
 * [Semantic UI React](http://react.semantic-ui.com/)
 * [Elemental UI](http://elemental-ui.com/)
-* [Rebase](http://jxnblk.com/rebass/)
+* [Rebass](https://rebassjs.org/)
 * [React Toolbox](http://react-toolbox.com/)
 * [Ant Design](https://ant.design/)
 * [Material UI](http://www.material-ui.com/)
