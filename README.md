@@ -50,7 +50,7 @@ My personal collection of React UI Framework.
 
 ### React Native
 
-* [Shoutem UI Toolkit](https://shoutem.github.io/ui/)
+* [Shoutem UI Toolkit](https://shoutem.github.io/)
 * [MRN](http://mrn.js.org/)
 * [RN Material Kit](http://www.xinthink.com/react-native-material-kit/)
 * [Reapp](http://reapp.io/)
